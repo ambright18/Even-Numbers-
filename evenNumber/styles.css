@@ -1,0 +1,39 @@
+body{
+background-color: azure;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#intro{
+    display: flex;
+    background-color: crimson;
+    margin: auto;
+    padding: 20px;
+    border-radius: 15px;
+    box-shadow: 10px 10px 10px rgb(55, 55, 55);
+    color: white;
+    width: 50em;
+    height: auto;
+}
+h1{
+    text-align: center;
+}
+
+#container{
+    background-color: darkcyan;
+    position: relative;
+    width: 35em;
+    height: 16vh;
+    margin: auto;
+    margin-top: 10em;
+    border-radius: 25px;
+    box-shadow: 10px 10px 10px rgb(55, 55, 55);
+    padding-top: 10px;
+    text-align: center;
+    
+}
+button{
+    padding: 10px;
+    border-radius: 20px;
+    margin: 0 auto;
+    display: block;
+    cursor: pointer;
+}
